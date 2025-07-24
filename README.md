@@ -23,3 +23,8 @@ mkdir build
 cmake .. -DCMAKE_INSTALL_PREFIX=/opt/unitree_robotics
 sudo make install  # wait for building 
 ```
+### unitree_mujoco
+
+refer to the unitreerobotics' guide
+
+## Usage
